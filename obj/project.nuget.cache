@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+IPeFGSlx/QfYmzrH+ciCldt68Gtl5abM44YOeMF0I8X3HlMEREcDuxgDV04KdARitg1pHcvSMGDo1vM38q+Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agarc\\Desktop\\DAM\\PROG\\Unidad 7. Acceso a datos con C#\\bdvideojuegos\\bdJuegos\\bdJuegos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agarc\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}
